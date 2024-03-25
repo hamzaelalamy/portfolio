@@ -1,14 +1,14 @@
 export const PROJECTS = [
   {
     title: "Portfolio Website",
-    image: "../../public/image.png",
+    image: "/image.png",
     url: "",
     prefix: "first",
   },
   {
     title: "Intrusion Detection",
     image:
-      "../../public/ids.png",
+      "/ids.png",
     url: "",
     prefix: "second",
   },
