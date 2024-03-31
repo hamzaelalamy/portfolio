@@ -48,7 +48,7 @@ const About = () => {
        "
         >
           <AnimatedLine sentence="I am Hamza, creative developer based in Morocco, I work as a" />
-          <AnimatedLine sentence="Web Developper and as a teacher withs start-ups and individuals,I " />
+          <AnimatedLine sentence="Web Developper with start-ups and individuals and as a teacher,I " />
           <AnimatedLine sentence="have a fondness for Web Developement designs, data analysis and" />
           <AnimatedLine sentence="interactive development." />
         </div>
