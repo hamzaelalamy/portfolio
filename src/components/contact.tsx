@@ -26,9 +26,9 @@ const Contact = () => {
       <div className="h-40"></div>
       <span className="flex flex-row items-start space-x-10">
         <Link url="https://github.com/hamzaelalamy" label="Github" />
-        <Link url="https://www.instagram.com" label="Instagram" />
-        <Link url="https://www.twitter.com" label="Twitter" />
-        <Link url="www.linkedin.com/in/hamza-el-alamy" label="LinkedIn" />
+        {/* <Link url="https://www.instagram.com" label="Instagram" />
+        <Link url="https://www.twitter.com" label="Twitter" /> */}
+        <Link url="https://www.linkedin.com/in/hamza-el-alamy" label="LinkedIn" />
       </span>
     </section>
   );
